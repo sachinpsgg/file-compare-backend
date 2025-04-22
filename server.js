@@ -11,7 +11,7 @@ const port = 8000;
 
 app.use(
   cors({
-    origin: '*',
+    origin: 'https://file-compare-frontend.vercel.app',
     methods: ['GET', 'POST'],
     allowedHeaders: ['Content-Type'],
   })
