@@ -1,0 +1,21 @@
+{
+  "name": "fileduplicatebackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mathjs": "^14.4.0",
+    "multer": "^1.4.5-lts.2",
+    "natural": "^8.0.1",
+    "stopwords": "^0.0.9"
+  }
+}
